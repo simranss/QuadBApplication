@@ -1,0 +1,10 @@
+<resources>
+    <string name="movies">Movies</string>
+    <string name="details">Details</string>
+    <string name="app_logo">App logo</string>
+
+    <string name="bot_nav_home">Home</string>
+    <string name="bot_nav_search">Search</string>
+
+    <string name="movie_img_desc">movie image</string>
+</resources>
